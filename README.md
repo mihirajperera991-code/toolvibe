@@ -20,6 +20,8 @@ Set a monitored inbox in `js/site-config.js` to enable the contact page’s emai
 
 ## Source layout
 
+ToolVibe is a free browser-based toolkit.
+
 - `index.html` contains the searchable tool directory.
 - `tools/` has five standalone pages with individually written guides and FAQs.
 - `pages/` has About, Contact, Privacy Policy, and Terms.
